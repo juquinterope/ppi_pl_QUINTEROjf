@@ -17,7 +17,7 @@ Contacto :
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-fernando-quintero-perez-9097b7279/)
 &nbsp;
 
-[![]([https://img.icons8.com/?size=100&id=roTmIWSye4f1&format=png&color=000000](https://img.icons8.com/?size=100&id=HKdmFbFm7xQV&format=png&color=000000))](https://www.upwork.com/freelancers/~01dea044647af5e80a)
+[![](https://img.icons8.com/?size=100&id=HKdmFbFm7xQV&format=png&color=000000)](https://www.upwork.com/freelancers/~01dea044647af5e80a)
 &nbsp;
 
 [![](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/20489420/juan-fernando-quintero)
