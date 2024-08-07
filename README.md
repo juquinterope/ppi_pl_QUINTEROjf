@@ -13,7 +13,7 @@ Estos son proyectos de estilo freelance.
 Juan Fernando Quintero Perez, estudiante de Ingenieria en sistemas de la Universidad Nacional de Colombia.
 
 Contacto :
-[![](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/juan-fernando-quintero-perez-9097b7279/)
+[![](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/juan-fernando-quintero-perez-9097b7279/)
 &nbsp;
 
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
