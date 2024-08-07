@@ -9,7 +9,11 @@ Cada proyecto esta ubicado en carpetas diferentes y son de indole individual, es
 
 ## Otra información
 
-Estos son proyectos de estilo freelance que buscan llevar registro del trabajo realizado en dicho rol.
-Por: Juan Fernando Quintero Perez,
-     Conocimientos en: Python, SQL, Visualizacion de datos,
-     Estudiante de Ingenieria en sistemas de la Universidad Nacional de Colombia (5).
+Estos son proyectos de estilo freelance.
+Juan Fernando Quintero Perez, estudiante de Ingenieria en sistemas de la Universidad Nacional de Colombia.
+
+Contacto :
+![https://www.upwork.com/freelancers/~01dea044647af5e80a]({https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white})
+[Linkedln](https://www.linkedin.com/in/juan-fernando-quintero-perez-9097b7279/)
+[Upwork](https://www.upwork.com/freelancers/~01dea044647af5e80a)
+[stackoverflow](https://stackoverflow.com/users/20489420/juan-fernando-quintero)
