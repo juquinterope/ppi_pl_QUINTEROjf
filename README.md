@@ -5,7 +5,16 @@ Cada proyecto esta ubicado en carpetas diferentes y son de indole individual, es
 
 ## Resumen de tecnologias, librerias y metodos trabajados
 
-(Aqui iria informacion relevante sobre cada proyecto)
+### [accidentes_trafico](https://github.com/juquinterope/ppi_pl_QUINTEROjf/tree/main/accidentes_trafico)
+
+Las librerias usadas son: pyspark, matplotlib, seaborn y scikit-learn
+
+Ademas los datos son tomados de kaggle: [US Accidents](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data)
+Debido a su tamaño no son aceptados por github.
+
+Se muestra que la toma de datos (por categoria) para entrenar un modelo de clasificacion,
+afecta su rendimiento y añade sesgo.
+
 
 ## Otra información
 
