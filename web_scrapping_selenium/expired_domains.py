@@ -68,10 +68,10 @@ try:
         # Move to the next page
         start += 25
         next_url = f"https://member.expireddomains.net/domains/expiredcom/?start={start}"
-        
+
         # Wait before loading the next page
         time.sleep(10)  # Wait for 10 seconds to avoid hitting request limits
-        
+
         driver.get(next_url)
 
         # Wait for the new page to fully load
