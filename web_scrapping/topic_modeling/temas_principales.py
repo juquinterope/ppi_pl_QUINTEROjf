@@ -57,6 +57,6 @@ plt.figure(figsize=(10, 5))
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
 # Guardar la imagen
-plt.savefig("temas_importantes.png")
+plt.savefig("nube_temas_principales.png")
 plt.show()
 
