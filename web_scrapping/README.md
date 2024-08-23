@@ -11,4 +11,4 @@ En este ejemplo el navegador usado es Chrome driver.
 
   Este ejemplo se corrio el 22 de agosto del 2024:
 
-  ![](web_scrapping/topic_modeling/nube_temas_principales.png)
+  ![]([web_scrapping/topic_modeling/nube_temas_principales.png](https://github.com/juquinterope/ppi_pl_QUINTEROjf/blob/32b5b7e56fedce4ccf3e80e5f6e9865082a01f6c/web_scrapping/topic_modeling/nube_temas_principales.png))
