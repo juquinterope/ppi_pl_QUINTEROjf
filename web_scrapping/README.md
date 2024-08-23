@@ -1,8 +1,8 @@
-## *expired_domains.py*
+# *expired_domains.py*
 Busca dominios expirados dentro de [www.expireddomains.net](https://www.expireddomains.net), usando selenium.
 En este ejemplo el navegador usado es Chrome driver.
 
-## *topic_modeling*
+# *topic_modeling*
   ### 'news_titles.py'
   Utiliza beautifulsoup4 y requests, para buscar los titulares de la pantalla de inicio de los noticieros: BBC y CNN; en español.
 
