@@ -1,4 +1,4 @@
-## *'expired_domains.py'*
+## *expired_domains.py*
 Busca dominios expirados dentro de [www.expireddomains.net](https://www.expireddomains.net), usando selenium.
 En este ejemplo el navegador usado es Chrome driver.
 
@@ -11,4 +11,4 @@ En este ejemplo el navegador usado es Chrome driver.
 
   Este ejemplo se corrio el 22 de agosto del 2024:
 
-  ![Nube de palabras](topic_modeling/nubes_temas_principales.png)
+  ![](web_scrapping/topic_modeling/nubes_temas_principales.png)
