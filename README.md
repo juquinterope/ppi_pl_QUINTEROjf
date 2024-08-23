@@ -15,6 +15,11 @@ Debido a su tamaño, el dataset no puede ser subido a github.
 Se muestra que la toma de datos (por categoria) para entrenar un modelo de clasificacion,
 afecta su rendimiento y añade sesgo.
 
+### [web_scrapping](https://github.com/juquinterope/ppi_pl_QUINTEROjf/tree/main/web_scrapping)
+
+Las librerias usadas son: nltk, gensim, matplotlib, wordcloud, itertools, beautifulsoup4, requests
+
+Los datos del modelado de temas son tomados de: [BBC](https://www.bbc.com/mundo), [CNN](https://cnnespanol.cnn.com/).
 
 ## Otra información
 
