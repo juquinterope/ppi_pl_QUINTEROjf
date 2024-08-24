@@ -21,6 +21,12 @@ Las librerias usadas son: nltk, gensim, matplotlib, wordcloud, itertools, beauti
 
 Los datos del modelado de temas son tomados de: [BBC](https://www.bbc.com/mundo), [CNN](https://cnnespanol.cnn.com/).
 
+### [ecommerce](https://github.com/juquinterope/ppi_pl_QUINTEROjf/tree/main/ecommerce)
+
+Las librerias usadas son: pandas, scikit-learn, matplotlib, joblib
+
+Los datos usados para entrenar el modelo fueron tomados de: [Ecommerce Order & Supply Chain Dataset](https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset)
+
 ## Otra información
 
 Estos son proyectos de estilo freelance.
