@@ -25,6 +25,33 @@ stop_words.update([',', ':', '?', 'así', '``', '.', '\'\''])
 lemmatizer = WordNetLemmatizer()
 
 def preprocess_text(text):
+    """Preprocesa un texto realizando tokenización, conversión a minúsculas,
+    lematización y eliminación de palabras vacías (stop words).
+
+    Este método toma un texto de entrada y realiza los siguientes pasos:
+    1. Convierte todo el texto a minúsculas.
+    2. Tokeniza el texto en palabras.
+    3. Elimina las palabras vacías (stop words).
+    4. Lematiza cada palabra restante para reducirla a su forma base.
+
+    Parámetros:
+    -----------
+    text : str
+        El texto de entrada que se desea preprocesar.
+
+    Retorna:
+    --------
+    tokens : list
+        Una lista de tokens procesados y lematizados,
+        con las palabras vacías eliminadas.
+
+    Ejemplo:
+    --------
+    >>> text = "Este es un ejemplo de texto para preprocesar."
+    >>> tokens = preprocess_text(text)
+    >>> print(tokens)
+    ['ejemplo', 'texto', 'preprocesar']
+    """
     tokens = nltk.word_tokenize(text.lower())
     tokens = [lemmatizer.lemmatize(word) for word in tokens if word not in stop_words]
     return tokens
@@ -50,7 +77,8 @@ for topic in topics:
 
 all_titles = list(chain.from_iterable(processed_titles))
 # Crear la word cloud
-wordcloud = WordCloud(width=800, height=400, background_color='white').generate(' '.join(all_titles))
+wordcloud = WordCloud(width=800, height=400, 
+                      background_color='white').generate(' '.join(all_titles))
 
 # Mostrar la word cloud
 plt.figure(figsize=(10, 5))

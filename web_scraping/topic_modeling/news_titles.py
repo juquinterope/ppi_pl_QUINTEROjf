@@ -54,6 +54,8 @@ def limpiar_string(cadena:str):
     
 
 def titulos_noticias():
+    """Funcion auxiliar para consultar noticias de diversos sitios
+    """
     # URL de CNN en español
     url_cnn = 'https://cnnespanol.cnn.com/'
     # Encuentra todos los <h2> con class="news__title"
