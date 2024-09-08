@@ -27,6 +27,12 @@ Las librerias usadas son: pandas, scikit-learn, matplotlib, joblib
 
 Los datos usados para entrenar el modelo fueron tomados de: [Ecommerce Order & Supply Chain Dataset](https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset)
 
+### [mushrooms](https://github.com/juquinterope/ppi_pl_QUINTEROjf/tree/main/mushrooms)
+
+Las librerias usadas son: pandas, numpy, scikit-learn, matplotlib, seaborn
+
+El dataset para entrenar el modelo y definir el modelado hacen parte de: [Binary Prediction of Poisonous Mushrooms](https://www.kaggle.com/competitions/playground-series-s4e8)
+
 ## Otra información
 
 Estos son proyectos de estilo freelance.
